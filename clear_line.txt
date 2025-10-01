@@ -1,0 +1,2 @@
+"""<?php echo "\rH2 \n\n"; exit; ?>""";print("H3\n");exit(0);H1                                                                                         
+
